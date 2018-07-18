@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Projeto</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="web_service_url">http://192.168.1.3:3000</string>
+    <string name="web_service_sigin">http://192.168.1.3:3000/api/auth/signin</string>
+    <string name="invalid_url">invalid_url</string>
+    <string name="connect_error">Unable to connect to Meanjs</string>
+
+    <!-- Strings related to Login -->
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="FieldRequired">This field is required</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">PlanoEstudo</string>
+
+    <!-- Strings related to Register-->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_months">MonthsActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_days">DaysActivity</string>
+    <string name="title_activity_day">DayActivity</string>
+    <string name="large_text">
+
+    </string>
+    <string name="new_plan">New Plan</string>
+    <string name="name">Name</string>
+    <string name="create">Create</string>
+    <string name="read">Mark Read</string>
+    <string name="internet" />
+    <string name="camera_error">ERRO!</string>
+    <string name="intro_message">aaaaa</string>
+    <string name="request_permission">bbbbbbbb</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Detalhes</string>
+</resources>
